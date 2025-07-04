@@ -6,7 +6,7 @@ A collection of basic network security and scanning tools implemented in HumanLa
 
 ## **Important Note:**
 
-This project is implemented using **humanlang**, my custom programming language.
+This project is implemented using  [humanlang](https://github.com/duongddinh/humanlang.git), my custom programming language.
 
 ---
 
@@ -32,7 +32,7 @@ To run these tools, you'll first need to set up the HumanLang environment.
     ```bash
     mkdir humanlang-prog
     cd humanlang-prog
-    git clone [https://github.com/duongddinh/humanlang.git](https://github.com/duongddinh/humanlang.git)
+    git clone https://github.com/duongddinh/humanlang.git
     ```
 
 2.  **Install HumanLang:**
